@@ -11,6 +11,7 @@ This project is developed for Chemistry Department of Lamar University for analy
 2. Created controller Servlets for handling HTTP requests from JSP pages.
 3. Developed few web pages using JSP, HTML, CSS, Java script, Ajax and JSON.
 4. Pojo Class, Contollers in src folder
+5. Chart.jsp in the folder webcontent is the file for all logical code for client side.
 
 >Display of Chart
 ![Dynamic Chart](https://github.com/priyagup/FileLoad/blob/master/Chart%20(1).png)
