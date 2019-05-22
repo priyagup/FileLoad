@@ -6,7 +6,7 @@ Author - Priya Gupta
 
 This project is developed for Chemistry Department of Lamar University for analysing the experiments in a efficient manner. By displaying the reading in dynamic chart to make the prediction of the response more accurate. 
 
->Discription: 
+>Description: 
 1. Used jQuery in dynamic binding of html web pages using the MVC architecture.
 2. Created controller Servlets for handling HTTP requests from JSP pages.
 3. Developed few web pages using JSP, HTML, CSS, Java script, Ajax and JSON.
