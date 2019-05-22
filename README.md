@@ -1,8 +1,16 @@
 # FileLoad
-Response surface modeling is an empirical modeling that uses a system of sample responses obtained from 
-experiments to predict the response of the system with statistical and optimization techniques. 
-Effects of operating parameters and the interactions of independent variables on the response can be assessed in an economical way. 
-This study is done to analyze the flare tests for which soot/DE/CE data are available and develop response surface models to predict 
-flare performance and determine desirable range of air and steam assist.
 
+Author - Priya Gupta
+
+**Client-Side/Server-Side Programing/Framework: JavaServer Pages - JavaScript - CanvasJS - Servlets - Java - JSON- Jquery** 
+
+This project is developed for Chemistry Department of Lamar University for analysing the experiments in a efficient manner. By displaying the reading in dynamic chart to make the prediction of the response more accurate. 
+
+>Discription: 
+1. Used jQuery in dynamic binding of html web pages using the MVC architecture.
+2. Created controller Servlets for handling HTTP requests from JSP pages.
+3. Developed few web pages using JSP, HTML, CSS, Java script, Ajax and JSON.
+4. Pojo Class, Contollers in src folder
+
+>Display of Chart
 ![Dynamic Chart](https://github.com/priyagup/FileLoad/blob/master/Chart%20(1).png)
